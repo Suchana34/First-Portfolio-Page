@@ -1,2 +1,2 @@
-http://suchana.cf/
 Resume
+My first resume
